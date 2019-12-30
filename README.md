@@ -6,7 +6,7 @@ This is a simple password generator. It has three complexity modes.
 ## Installation
 1) Run `install.sh` file with this command:
     
-    sudo ./install.sh
+        sudo ./install.sh
     
 2) Restart your prompt and type `keygen`. If usage appears, everything is fine.
 
